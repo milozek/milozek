@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @milozek
-- 👀 I’m interested in ... solidity
-- 🌱 I’m currently learning ... solidity
-- 💞️ I’m looking to collaborate on ... solidity
-- 📫 How to reach me ... solidity 
-- lol my email is camilokarp@hotmail.com . cy around mate ;)
+- 👀 I’m interested in ... solidity, ai/ml, smart-contracts, software development
+- 🌱 I’m currently learning ... all this
+- 💞️ I’m looking to collaborate on ... a great company with great environment for self improvement and healthy lifestyle towards the success of the company
+- 📫 How to reach me ... camilokarp@hotmail.com 
 
 <!---
 milozek/milozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
